@@ -43,7 +43,7 @@ The pipeline covers the entire data science lifecycle: from data ingestion and c
 1. **Clone the repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone <https://github.com/Arka-Codes/DrugRespPrediction>
    cd DRP
    ```
 
